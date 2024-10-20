@@ -1,0 +1,529 @@
+{
+  "mod_elements": [
+    {
+      "name": "Andesiteshovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/win/thepwrtank/grandiorite/item/AndesiteshovelItem.java",
+          "src/main/resources/assets/grandiorite/models/item/andesite_shovel.json"
+        ]
+      },
+      "path": "~/Andesite"
+    },
+    {
+      "name": "Andesitehoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/grandiorite/models/item/andesite_hoe.json",
+          "src/main/java/win/thepwrtank/grandiorite/item/AndesitehoeItem.java"
+        ]
+      },
+      "path": "~/Andesite"
+    },
+    {
+      "name": "Andesiteaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesiteaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/win/thepwrtank/grandiorite/item/AndesiteaxeItem.java",
+          "src/main/resources/assets/grandiorite/models/item/andesiteaxe.json"
+        ]
+      },
+      "path": "~/Andesite"
+    },
+    {
+      "name": "AndesiteSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/grandiorite/models/item/andesite_sword.json",
+          "src/main/java/win/thepwrtank/grandiorite/item/AndesiteSwordItem.java"
+        ]
+      },
+      "path": "~/Andesite"
+    },
+    {
+      "name": "DioriteSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/win/thepwrtank/grandiorite/item/DioriteSwordItem.java",
+          "src/main/resources/assets/grandiorite/models/item/diorite_sword.json"
+        ]
+      },
+      "path": "~/Diorite"
+    },
+    {
+      "name": "DioritePickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/win/thepwrtank/grandiorite/item/DioritePickaxeItem.java",
+          "src/main/resources/assets/grandiorite/models/item/diorite_pickaxe.json"
+        ]
+      },
+      "path": "~/Diorite"
+    },
+    {
+      "name": "DioriteAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/win/thepwrtank/grandiorite/item/DioriteAxeItem.java",
+          "src/main/resources/assets/grandiorite/models/item/diorite_axe.json"
+        ]
+      },
+      "path": "~/Diorite"
+    },
+    {
+      "name": "DioriteShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/win/thepwrtank/grandiorite/item/DioriteShovelItem.java",
+          "src/main/resources/assets/grandiorite/models/item/diorite_shovel.json"
+        ]
+      },
+      "path": "~/Diorite"
+    },
+    {
+      "name": "DioriteHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_hoe",
+      "metadata": {
+        "files": [
+          "src/main/java/win/thepwrtank/grandiorite/item/DioriteHoeItem.java",
+          "src/main/resources/assets/grandiorite/models/item/diorite_hoe.json"
+        ]
+      },
+      "path": "~/Diorite"
+    },
+    {
+      "name": "GraniteSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/win/thepwrtank/grandiorite/item/GraniteSwordItem.java",
+          "src/main/resources/assets/grandiorite/models/item/granite_sword.json"
+        ]
+      },
+      "path": "~/Granite"
+    },
+    {
+      "name": "GraniteAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/grandiorite/models/item/granite_axe.json",
+          "src/main/java/win/thepwrtank/grandiorite/item/GraniteAxeItem.java"
+        ]
+      },
+      "path": "~/Granite"
+    },
+    {
+      "name": "GraniteHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_hoe",
+      "metadata": {
+        "files": [
+          "src/main/java/win/thepwrtank/grandiorite/item/GraniteHoeItem.java",
+          "src/main/resources/assets/grandiorite/models/item/granite_hoe.json"
+        ]
+      },
+      "path": "~/Granite"
+    },
+    {
+      "name": "GraniteShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/win/thepwrtank/grandiorite/item/GraniteShovelItem.java",
+          "src/main/resources/assets/grandiorite/models/item/granite_shovel.json"
+        ]
+      },
+      "path": "~/Granite"
+    },
+    {
+      "name": "GranitePickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/grandiorite/models/item/granite_pickaxe.json",
+          "src/main/java/win/thepwrtank/grandiorite/item/GranitePickaxeItem.java"
+        ]
+      },
+      "path": "~/Granite"
+    },
+    {
+      "name": "AndesitePickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/andesite_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Andesite"
+    },
+    {
+      "name": "AndesiteShovelRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/andesite_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Andesite"
+    },
+    {
+      "name": "AndesiteHoeRecipeOne",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_hoe_recipe_one",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/andesite_hoe_recipe_one.json"
+        ]
+      },
+      "path": "~/Andesite"
+    },
+    {
+      "name": "AndesiteHoeRecipeTwo",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_hoe_recipe_two",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/andesite_hoe_recipe_two.json"
+        ]
+      },
+      "path": "~/Andesite"
+    },
+    {
+      "name": "AndesiteAxeRecipeOne",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_axe_recipe_one",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/andesite_axe_recipe_one.json"
+        ]
+      },
+      "path": "~/Andesite"
+    },
+    {
+      "name": "AndesiteAxeRecipeTwo",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_axe_recipe_two",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/andesite_axe_recipe_two.json"
+        ]
+      },
+      "path": "~/Andesite"
+    },
+    {
+      "name": "AndesiteSwordRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/andesite_sword_recipe.json"
+        ]
+      },
+      "path": "~/Andesite"
+    },
+    {
+      "name": "GranitePickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/granite_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Granite"
+    },
+    {
+      "name": "GraniteShovelRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/granite_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Granite"
+    },
+    {
+      "name": "GraniteHoeRecipeOne",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_hoe_recipe_one",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/granite_hoe_recipe_one.json"
+        ]
+      },
+      "path": "~/Granite"
+    },
+    {
+      "name": "GraniteHoeRecipeTwo",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_hoe_recipe_two",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/granite_hoe_recipe_two.json"
+        ]
+      },
+      "path": "~/Granite"
+    },
+    {
+      "name": "GraniteAxeRecipeOne",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_axe_recipe_one",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/granite_axe_recipe_one.json"
+        ]
+      },
+      "path": "~/Granite"
+    },
+    {
+      "name": "GraniteAxeRecipeTwo",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_axe_recipe_two",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/granite_axe_recipe_two.json"
+        ]
+      },
+      "path": "~/Granite"
+    },
+    {
+      "name": "GraniteSwordRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/granite_sword_recipe.json"
+        ]
+      },
+      "path": "~/Granite"
+    },
+    {
+      "name": "DioritePickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/diorite_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Diorite"
+    },
+    {
+      "name": "DioriteShovelRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/diorite_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Diorite"
+    },
+    {
+      "name": "DioriteHoeRecipeOne",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_hoe_recipe_one",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/diorite_hoe_recipe_one.json"
+        ]
+      },
+      "path": "~/Diorite"
+    },
+    {
+      "name": "DioriteHoeRecipeTwo",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_hoe_recipe_two",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/grandiorite/recipe/diorite_hoe_recipe_two.json"
+        ]
+      },
+      "path": "~/Diorite"
+    },
+    {
+      "name": "AndesitePickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/win/thepwrtank/grandiorite/item/AndesitePickaxeItem.java",
+          "src/main/resources/assets/grandiorite/models/item/andesite_pickaxe.json"
+        ]
+      },
+      "path": "~/Andesite"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:AndesitePickaxe",
+      "~CUSTOM:GranitePickaxe",
+      "~CUSTOM:DioritePickaxe"
+    ],
+    "ITEMS:minecraft:axes": [
+      "~CUSTOM:GraniteAxe",
+      "~CUSTOM:DioriteAxe",
+      "~CUSTOM:Andesiteaxe"
+    ],
+    "ITEMS:minecraft:hoes": [
+      "~CUSTOM:GraniteHoe",
+      "~CUSTOM:DioriteHoe",
+      "~CUSTOM:Andesitehoe"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:GraniteSword",
+      "~CUSTOM:DioriteSword",
+      "~CUSTOM:AndesiteSword"
+    ],
+    "ITEMS:minecraft:shovels": [
+      "~CUSTOM:GraniteShovel",
+      "~CUSTOM:DioriteShovel",
+      "~CUSTOM:Andesiteshovel"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.grandiorite.andesite_sword": "Andesite Sword",
+      "item.grandiorite.diorite_pickaxe": "Diorite Pickaxe",
+      "item.grandiorite.granite_sword": "Granite Sword",
+      "item.grandiorite.granite_axe": "Granite Axe",
+      "item.grandiorite.diorite_hoe": "Diorite Hoe",
+      "item.grandiorite.andesite_shovel": "Andesite Shovel",
+      "item.grandiorite.andesiteaxe": "Andesite Axe",
+      "item.grandiorite.diorite_shovel": "Diorite Shovel",
+      "item.grandiorite.diorite_sword": "Diorite Sword",
+      "item.grandiorite.granite_hoe": "Granite Hoe",
+      "item.grandiorite.andesite_hoe": "Andesite Hoe",
+      "item.grandiorite.granite_shovel": "Granite Shovel",
+      "item.grandiorite.granite_pickaxe": "Granite Pickaxe",
+      "item.grandiorite.diorite_axe": "Diorite Axe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Andesite",
+        "children": []
+      },
+      {
+        "name": "Granite",
+        "children": []
+      },
+      {
+        "name": "Diorite",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "grandiorite",
+    "modName": "Grandiorite",
+    "version": "1.0.0",
+    "author": "Leo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "modElementsPackage": "win.thepwrtank.grandiorite"
+  },
+  "mcreatorVersion": 202400340615
+}

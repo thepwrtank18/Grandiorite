@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "grandiorite:granite_sword",
+    "grandiorite:diorite_sword",
+    "grandiorite:andesite_sword"
+  ]
+}
